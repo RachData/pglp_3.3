@@ -1,3 +1,4 @@
+package fr.uvsq.pglp.exercice_4;
 
 public class Robot {
 	
